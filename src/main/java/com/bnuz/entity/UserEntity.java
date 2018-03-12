@@ -16,6 +16,7 @@ public class UserEntity {
     private String userTel;
     @Column(name = "UserCollege")
     private String userCollege;
+    // 123
     @Column(name = "UserMajor")
     private String userMajor;
     @Column(name = "UserPower")
